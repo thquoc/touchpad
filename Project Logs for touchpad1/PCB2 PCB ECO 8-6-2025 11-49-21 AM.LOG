@@ -1,0 +1,24 @@
+Add component: Footprint Not Found SMC_L6.9-W5.9-LS7.9-RD
+Added Component: Designator=P1(HDR1X6H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=IO25 Pin=P1-2
+Added Pin To Net: NetName=IO26 Pin=P1-3
+Added Pin To Net: NetName=IO27 Pin=P1-4
+Added Pin To Net: NetName=IO14 Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=TX Pin=P2-2
+Added Pin To Net: NetName=RX Pin=P2-3
+Added Pin To Net: NetName=VCC Pin=P2-4
+Add Class Member: Failed to add class member : Component D1 B540CQ-13-F
+Added Member To Class: ClassName=Sheet2 Member=Component P1 Header 6H
+Added Member To Class: ClassName=Sheet2 Member=Component P2 Header 4

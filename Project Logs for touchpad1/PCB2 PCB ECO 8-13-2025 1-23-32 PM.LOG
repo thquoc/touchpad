@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=3V3 Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=VCC Pin=U1-7
+Removed Member From Class: ClassName=Sheet2 Member=R7
+Change Component Footprint: Designator=R5 Old Footprint=R0603 New Footprint=RES-ADJ-TH_3P-L10.0-W10.0-P2.50-BL-BS
+Change Component Footprint: Designator=U1 Old Footprint=SOIC127P600X170-9N New Footprint=SOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP3.1
+Change Component Comment : Designator=R6 Old Comment=3.3kO New Comment=6.8kO
+Change Component Comment : Designator=R5 Old Comment=200kO New Comment=20kO
+Change Component Comment : Designator=C4 Old Comment=220pF New Comment=100nF
+Change Component Comment : Designator=U1 Old Comment=MP1584EN New Comment=MP1484
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SOIC127P600X170-9N"; UniqueID = "\ANUWACDP" ("\ANUWACDP")
+Added Component: Designator=C13(C0201)
+Added Component: Designator=U3(R0603)
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=EN Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=R5-3
+Added Pin To Net: NetName=VCC Pin=U1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=EN Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U3-1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=SW
+Change Net Name : Old Net Name=VCC New Net Name=IN
+Added Pin To Net: NetName=BS Pin=C1-1
+Added Pin To Net: NetName=BS Pin=U1-1
+Added Net: Name=BS
+Added Pin To Net: NetName=COMP Pin=C13-1
+Added Pin To Net: NetName=COMP Pin=U1-6
+Added Net: Name=COMP
+Added Pin To Net: NetName=FB Pin=R3-1
+Added Pin To Net: NetName=FB Pin=U1-5
+Added Pin To Net: NetName=FB Pin=U3-2
+Added Net: Name=FB
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=R6-2
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R5-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=SS Pin=C4-2
+Added Pin To Net: NetName=SS Pin=U1-8
+Added Net: Name=SS
+Added Member To Class: ClassName=Sheet2 Member=Component C13 6.8nF
+Added Member To Class: ClassName=Sheet2 Member=Component U3 4kO
+Added Rule: Name=Schematic Supply Nets_3

@@ -1,0 +1,289 @@
+Removed Pin From Net: NetName=BS Pin=C1-1
+Removed Pin From Net: NetName=SW Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=3V3 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=SS Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=Boot Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=EN Pin=C6-2
+Removed Pin From Net: NetName=touch1 Pin=C7-1
+Removed Pin From Net: NetName=touch3 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=touch2 Pin=C9-1
+Removed Pin From Net: NetName=touch4 Pin=C10-1
+Removed Pin From Net: NetName=3V3 Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=3V3 Pin=C12-2
+Removed Pin From Net: NetName=COMP Pin=C13-1
+Removed Pin From Net: NetName=3V3 Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=SW Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=BS Pin=d-1
+Removed Pin From Net: NetName=VCC Pin=d-2
+Removed Pin From Net: NetName=SW Pin=d-3
+Removed Pin From Net: NetName=GND Pin=d-4
+Removed Pin From Net: NetName=FB Pin=d-5
+Removed Pin From Net: NetName=COMP Pin=d-6
+Removed Pin From Net: NetName=EN1 Pin=d-7
+Removed Pin From Net: NetName=SS Pin=d-8
+Removed Pin From Net: NetName=GND Pin=d-9
+Removed Pin From Net: NetName=VCC Pin=R1-1
+Removed Pin From Net: NetName=EN1 Pin=R1-2
+Removed Pin From Net: NetName=NetLED1_2 Pin=R2-1
+Removed Pin From Net: NetName=FB Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=EN1 Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=3V3 Pin=R8-2
+Removed Pin From Net: NetName=3V3 Pin=R9-2
+Removed Pin From Net: NetName=IO14 Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Pin From Net: NetName=IO27 Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Pin From Net: NetName=IO25 Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=3V3 Pin=R14-1
+Removed Pin From Net: NetName=NetLED2_2 Pin=R14-2
+Removed Pin From Net: NetName=NetLED3_2 Pin=R15-2
+Removed Pin From Net: NetName=IO25 Pin=R16-1
+Removed Pin From Net: NetName=NetLED4_2 Pin=R16-2
+Removed Pin From Net: NetName=NetLED5_2 Pin=R17-2
+Removed Pin From Net: NetName=IO26 Pin=R18-1
+Removed Pin From Net: NetName=NetLED6_2 Pin=R18-2
+Removed Pin From Net: NetName=IO27 Pin=R19-1
+Removed Pin From Net: NetName=NetLED7_2 Pin=R19-2
+Removed Pin From Net: NetName=3V3 Pin=R20-1
+Removed Pin From Net: NetName=NetLED8_2 Pin=R20-2
+Removed Pin From Net: NetName=IO14 Pin=R21-1
+Removed Pin From Net: NetName=NetLED9_2 Pin=R21-2
+Removed Pin From Net: NetName=touch3 Pin=T2-1
+Removed Pin From Net: NetName=touch4 Pin=T4-1
+Removed Pin From Net: NetName=VCC Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=3V3 Pin=U2-3
+Removed Pin From Net: NetName=EN Pin=U2-8
+Removed Pin From Net: NetName=GND Pin=U2-11
+Removed Pin From Net: NetName=touch1 Pin=U2-12
+Removed Pin From Net: NetName=touch2 Pin=U2-13
+Removed Pin From Net: NetName=GND Pin=U2-14
+Removed Pin From Net: NetName=IO25 Pin=U2-15
+Removed Pin From Net: NetName=IO26 Pin=U2-16
+Removed Pin From Net: NetName=IO27 Pin=U2-17
+Removed Pin From Net: NetName=IO14 Pin=U2-18
+Removed Pin From Net: NetName=touch3 Pin=U2-20
+Removed Pin From Net: NetName=touch4 Pin=U2-21
+Removed Pin From Net: NetName=Boot Pin=U2-23
+Removed Pin From Net: NetName=RX Pin=U2-30
+Removed Pin From Net: NetName=TX Pin=U2-31
+Removed Pin From Net: NetName=GND Pin=U2-36
+Removed Pin From Net: NetName=GND Pin=U2-37
+Removed Pin From Net: NetName=GND Pin=U2-38
+Removed Pin From Net: NetName=GND Pin=U2-39
+Removed Pin From Net: NetName=GND Pin=U2-40
+Removed Pin From Net: NetName=GND Pin=U2-41
+Removed Pin From Net: NetName=GND Pin=U2-42
+Removed Pin From Net: NetName=GND Pin=U2-43
+Removed Pin From Net: NetName=GND Pin=U2-44
+Removed Pin From Net: NetName=GND Pin=U2-45
+Removed Pin From Net: NetName=GND Pin=U2-46
+Removed Pin From Net: NetName=GND Pin=U2-47
+Removed Pin From Net: NetName=GND Pin=U2-48
+Removed Pin From Net: NetName=GND Pin=U2-49
+Removed Pin From Net: NetName=GND Pin=U2-49
+Removed Pin From Net: NetName=GND Pin=U2-49
+Removed Pin From Net: NetName=GND Pin=U2-49
+Removed Pin From Net: NetName=GND Pin=U2-49
+Removed Pin From Net: NetName=GND Pin=U2-49
+Removed Pin From Net: NetName=GND Pin=U2-49
+Removed Pin From Net: NetName=GND Pin=U2-49
+Removed Pin From Net: NetName=GND Pin=U2-49
+Removed Pin From Net: NetName=GND Pin=U2-50
+Removed Pin From Net: NetName=GND Pin=U2-51
+Removed Pin From Net: NetName=GND Pin=U2-52
+Removed Pin From Net: NetName=GND Pin=U2-53
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=FB Pin=U3-2
+Removed Member From Class: ClassName=Sheet2 Member=C16
+Removed Member From Class: ClassName=Sheet2 Member=D1
+Removed Member From Class: ClassName=Sheet2 Member=d
+Removed Member From Class: ClassName=Sheet2 Member=R18
+Removed Member From Class: ClassName=Sheet2 Member=R19
+Removed Member From Class: ClassName=Sheet2 Member=R20
+Removed Member From Class: ClassName=Sheet2 Member=R21
+Removed Member From Class: ClassName=Sheet2 Member=U2
+Removed Member From Class: ClassName=Sheet2 Member=U3
+Change Component Footprint: Designator=C8 Old Footprint=C0402 New Footprint=C0603
+Change Component Footprint: Designator=C9 Old Footprint=C0402 New Footprint=C0603
+Change Component Footprint: Designator=C10 Old Footprint=C0402 New Footprint=C0603
+Change Component Footprint: Designator=C7 Old Footprint=C0402 New Footprint=CAP-SMD_BD6.3-L6.6-W6.6-FD
+Change Component Footprint: Designator=C4 Old Footprint=C0603 New Footprint=CAP-SMD_BD6.3-L6.6-W6.6-FD
+Change Component Footprint: Designator=U1 Old Footprint=CAP-SMD_BD6.3-L6.6-W6.6-FD New Footprint=BULETM-SMD_ESP32-PICO-MINI-02-N8R2
+Change Component Comment : Designator=C9 Old Comment=4.7nF New Comment=4.7uF
+Change Component Comment : Designator=C10 Old Comment=4.7nF New Comment=4.7uF
+Change Component Comment : Designator=C7 Old Comment=4.7nF New Comment=10uF
+Change Component Comment : Designator=C8 Old Comment=4.7nF New Comment=100nF
+Change Component Comment : Designator=R6 Old Comment=6.8kO New Comment=26.1kO
+Change Component Comment : Designator=C13 Old Comment=6.8uF New Comment=4.7uF
+Change Component Comment : Designator=R9 Old Comment=10kohm New Comment=6.8kO
+Change Component Comment : Designator=R8 Old Comment=10kohm New Comment=10kO
+Change Component Comment : Designator=R10 Old Comment=10kohm New Comment=100O
+Change Component Comment : Designator=R12 Old Comment=10kohm New Comment=100O
+Change Component Comment : Designator=R13 Old Comment=10kohm New Comment=100O
+Change Component Comment : Designator=R11 Old Comment=10kohm New Comment=250O
+Change Component Comment : Designator=C11 Old Comment=22uF New Comment=6.8uF
+Change Component Comment : Designator=C2 Old Comment=22uF New Comment=100nF
+Change Component Comment : Designator=R3 Old Comment=26.1kO New Comment=50kO
+Change Component Comment : Designator=R1 Old Comment=50kO New Comment=10kO
+Change Component Comment : Designator=R2 Old Comment=50O New Comment=10kO
+Change Component Comment : Designator=R4 Old Comment=100kO New Comment=50O
+Change Component Comment : Designator=C12 Old Comment=100nF New Comment=4.7uF
+Change Component Comment : Designator=C1 Old Comment=100nF New Comment=22uF
+Change Component Comment : Designator=C4 Old Comment=100nF New Comment=220uF
+Change Component Comment : Designator=U1 Old Comment=220uF New Comment=ESP32-PICO-MINI-02-N8R2
+Change Component Comment : Designator=R14 Old Comment=250O New Comment=100O
+Change Component Comment : Designator=R15 Old Comment=250O New Comment=100O
+Change Component Comment : Designator=R17 Old Comment=250O New Comment=100O
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0603"; UniqueID = "\IJIMLSRX" ("\IJIMLSRX")
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C0603"; UniqueID = "\UJNXYSYK" ("\UJNXYSYK")
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0603"; UniqueID = "\ISXBGHEO" ("\ISXBGHEO")
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C0603"; UniqueID = "\NAHZGZCG" ("\NAHZGZCG")
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C0603"; UniqueID = "\ZBSPTSPR" ("\ZBSPTSPR")
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C0603"; UniqueID = "\YEKEDDKF" ("\YEKEDDKF")
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C0402"; UniqueID = "\YBWVBLFN" ("\YBWVBLFN")
+Change component parameters: Designator = "C8" ("C8"); Footprint = "C0402"; UniqueID = "\BVLJWEGL" ("\BVLJWEGL")
+Change component parameters: Designator = "C9" ("C9"); Footprint = "C0402"; UniqueID = "\JPQJEOTR" ("\JPQJEOTR")
+Change component parameters: Designator = "C10" ("C10"); Footprint = "C0402"; UniqueID = "\VGXNZQPP" ("\VGXNZQPP")
+Change component parameters: Designator = "C11" ("C11"); Footprint = "C0603"; UniqueID = "\IQWYLVYI" ("\IQWYLVYI")
+Change component parameters: Designator = "C12" ("C12"); Footprint = "C0603"; UniqueID = "\JSFELSGV" ("\JSFELSGV")
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IND-SMD_L6.0-W6.0_VLS6045EX-2R0N"; UniqueID = "\DRTFJLOH" ("\DRTFJLOH")
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R0603"; UniqueID = "\OWKJMTBE" ("\OWKJMTBE")
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R0603"; UniqueID = "\GPPUBEMM" ("\GPPUBEMM")
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R0603"; UniqueID = "\GXAQRGTG" ("\GXAQRGTG")
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES-ADJ-SMD_3P-L4.5-W4.5-P2.30-BL-FS"; UniqueID = "\PDLFPYID" ("\PDLFPYID")
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R0603"; UniqueID = "\PXSMOZYW" ("\PXSMOZYW")
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R0603"; UniqueID = "\GLXVTNRI" ("\GLXVTNRI")
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R0603"; UniqueID = "\DYEAAEJT" ("\DYEAAEJT")
+Change component parameters: Designator = "R10" ("R10"); Footprint = "R0603"; UniqueID = "\PVVREFUA" ("\PVVREFUA")
+Change component parameters: Designator = "R11" ("R11"); Footprint = "R0603"; UniqueID = "\UHDJQOVZ" ("\UHDJQOVZ")
+Change component parameters: Designator = "R12" ("R12"); Footprint = "R0603"; UniqueID = "\HGCRXHAB" ("\HGCRXHAB")
+Change component parameters: Designator = "R13" ("R13"); Footprint = "R0603"; UniqueID = "\KLCZJWYG" ("\KLCZJWYG")
+Change component parameters: Designator = "R16" ("R16"); Footprint = "R0603"; UniqueID = "\FKPMKMOF" ("\FKPMKMOF")
+Added Component: Designator=C14(C0603)
+Added Component: Designator=C15(C0603)
+Added Component: Designator=IC1(SOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP3.1)
+Added Component: Designator=R7(R0603)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=SW Pin=C2-1
+Added Pin To Net: NetName=BS Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=Boot Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=EN Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=SS Pin=C8-2
+Added Pin To Net: NetName=touch1 Pin=C9-1
+Added Pin To Net: NetName=touch3 Pin=C10-1
+Added Pin To Net: NetName=COMP Pin=C11-2
+Added Pin To Net: NetName=touch2 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=touch4 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=3V3 Pin=C14-2
+Added Pin To Net: NetName=3V3 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=BS Pin=IC1-1
+Added Pin To Net: NetName=VCC Pin=IC1-2
+Added Pin To Net: NetName=SW Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=FB Pin=IC1-5
+Added Pin To Net: NetName=COMP Pin=IC1-6
+Added Pin To Net: NetName=EN1 Pin=IC1-7
+Added Pin To Net: NetName=SS Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-9
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=EN1 Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=FB Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=EN1 Pin=R7-2
+Added Pin To Net: NetName=FB Pin=R8-2
+Added Pin To Net: NetName=IO25 Pin=R10-1
+Added Pin To Net: NetName=NetLED4_2 Pin=R10-2
+Added Pin To Net: NetName=3V3 Pin=R11-1
+Added Pin To Net: NetName=NetLED2_2 Pin=R11-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R12-2
+Added Pin To Net: NetName=3V3 Pin=R13-1
+Added Pin To Net: NetName=NetLED3_2 Pin=R13-2
+Added Pin To Net: NetName=IO27 Pin=R14-1
+Added Pin To Net: NetName=NetLED7_2 Pin=R14-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R15-2
+Added Pin To Net: NetName=IO14 Pin=R16-1
+Added Pin To Net: NetName=NetLED9_2 Pin=R16-2
+Added Pin To Net: NetName=NetLED8_2 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=3V3 Pin=U1-3
+Added Pin To Net: NetName=EN Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=touch1 Pin=U1-12
+Added Pin To Net: NetName=touch2 Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=IO25 Pin=U1-15
+Added Pin To Net: NetName=IO26 Pin=U1-16
+Added Pin To Net: NetName=IO27 Pin=U1-17
+Added Pin To Net: NetName=IO14 Pin=U1-18
+Added Pin To Net: NetName=touch3 Pin=U1-20
+Added Pin To Net: NetName=touch4 Pin=U1-21
+Added Pin To Net: NetName=Boot Pin=U1-23
+Added Pin To Net: NetName=RX Pin=U1-30
+Added Pin To Net: NetName=TX Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-36
+Added Pin To Net: NetName=GND Pin=U1-37
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=GND Pin=U1-39
+Added Pin To Net: NetName=GND Pin=U1-40
+Added Pin To Net: NetName=GND Pin=U1-41
+Added Pin To Net: NetName=GND Pin=U1-42
+Added Pin To Net: NetName=GND Pin=U1-43
+Added Pin To Net: NetName=GND Pin=U1-44
+Added Pin To Net: NetName=GND Pin=U1-45
+Added Pin To Net: NetName=GND Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=GND Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-50
+Added Pin To Net: NetName=GND Pin=U1-51
+Added Pin To Net: NetName=GND Pin=U1-52
+Added Pin To Net: NetName=GND Pin=U1-53
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=R9-2
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=Sheet2 Member=Component C14 22uF
+Added Member To Class: ClassName=Sheet2 Member=Component C15 100nF
+Added Member To Class: ClassName=Sheet2 Member=Component IC1 MP1484
+Added Member To Class: ClassName=Sheet2 Member=Component R7 100kO

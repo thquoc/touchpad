@@ -1,0 +1,5 @@
+Change Component Comment : Designator=U3 Old Comment=4kO New Comment=10kohm
+Change Component Comment : Designator=R3 Old Comment=10kohm New Comment=26.1kO
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R0603"; UniqueID = "\QNXFBPDL" ("\QNXFBPDL")
+Change component parameters: Designator = "U3" ("U3"); Footprint = "R0603"; UniqueID = "\VVFXFEUH" ("\VVFXFEUH")
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10k"; VariantName = "[No Variations]"

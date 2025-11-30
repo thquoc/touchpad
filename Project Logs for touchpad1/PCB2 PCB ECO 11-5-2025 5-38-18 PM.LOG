@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R2-1
+Change Component Designator: OldDesignator= NewDesignator=P1
+Change Component Designator: OldDesignator=POWER NewDesignator=HD1
+Change Component Designator: OldDesignator=Test power NewDesignator=P3
+Change Component Designator: OldDesignator=UART NewDesignator=P2
+Added Pin To Net: NetName=Boot Pin=R1-1
+Added Pin To Net: NetName=EN Pin=R2-1
+Added Member To Class: ClassName=Sheet2 Member=Component HD1 Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component P1 Header 5
+Added Member To Class: ClassName=Sheet2 Member=Component P2 Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component P3 Header 2

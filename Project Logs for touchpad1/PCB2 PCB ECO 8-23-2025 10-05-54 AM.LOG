@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=IO25 Pin=P1-2
+Removed Pin From Net: NetName=IO26 Pin=P1-3
+Removed Pin From Net: NetName=IO27 Pin=P1-4
+Removed Pin From Net: NetName=IO14 Pin=P1-5
+Removed Pin From Net: NetName=VCC Pin=P1-6
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X6 New Footprint=HDR1X5
+Change Component Comment : Designator=P1 Old Comment=Header 6 New Comment=Header 5
+Added Pin To Net: NetName=IO25 Pin=P1-1
+Added Pin To Net: NetName=IO26 Pin=P1-2
+Added Pin To Net: NetName=IO27 Pin=P1-3
+Added Pin To Net: NetName=IO14 Pin=P1-4
+Added Pin To Net: NetName=VCC Pin=P1-5

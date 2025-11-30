@@ -1,0 +1,3 @@
+Change Component Kind : Designator=C3 Old Kind=Standard New Kind=Net Tie (In BOM)
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0603"; UniqueID = "\MSJATNSS" ("\MSJATNSS")
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"

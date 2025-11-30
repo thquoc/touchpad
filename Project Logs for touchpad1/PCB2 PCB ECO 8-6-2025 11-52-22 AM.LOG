@@ -1,0 +1,4 @@
+Added Component: Designator=D1(SMC_L6.9-W5.9-LS7.9-RD)
+Added Pin To Net: NetName=NetC1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Member To Class: ClassName=Sheet2 Member=Component D1 B540CQ-13-F

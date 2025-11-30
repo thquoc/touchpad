@@ -1,0 +1,163 @@
+Protel Design System Design Rule Check
+PCB File : D:\Touchpad\Altium\touchpad\PCB2.PcbDoc
+Date     : 11/30/2025
+Time     : 3:43:41 PM
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: GND_L02_P001
+   Polygon named: GND_L01_P002
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.3mm) Between Arc (0mm,0mm) on L-BOT And Pad T1-1(8.953mm,-0.273mm) on Multi-Layer 
+   Violation between Clearance Constraint: (0.125mm < 0.3mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad LED2-1(0.01mm,-25.635mm) on L-TOP 
+   Violation between Clearance Constraint: (0.125mm < 0.3mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad LED2-2(0.01mm,-28.735mm) on L-TOP 
+   Violation between Clearance Constraint: (0.125mm < 0.3mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad LED3-1(0.001mm,-1.542mm) on L-TOP 
+   Violation between Clearance Constraint: (0.125mm < 0.3mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad LED3-2(0.001mm,1.558mm) on L-TOP 
+   Violation between Clearance Constraint: (0.125mm < 0.3mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad LED4-1(41.151mm,-25.629mm) on L-TOP 
+   Violation between Clearance Constraint: (0.125mm < 0.3mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad LED4-2(41.151mm,-28.73mm) on L-TOP 
+   Violation between Clearance Constraint: (0.125mm < 0.3mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad LED5-1(41.148mm,-1.559mm) on L-TOP 
+   Violation between Clearance Constraint: (0.125mm < 0.3mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad LED5-2(41.148mm,1.541mm) on L-TOP 
+   Violation between Clearance Constraint: (0.225mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (0.001mm,1.558mm)(1.366mm,1.558mm) on L-TOP 
+   Violation between Clearance Constraint: (0.225mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (0.01mm,-28.735mm)(1.62mm,-28.735mm) on L-TOP 
+   Violation between Clearance Constraint: (0.225mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (-0.058mm,-28.804mm)(0.01mm,-28.735mm) on L-TOP 
+   Violation between Clearance Constraint: (0.421mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (1.366mm,1.558mm)(2.286mm,0.638mm) on L-TOP 
+   Violation between Clearance Constraint: (0.225mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (-1.459mm,1.558mm)(0.001mm,1.558mm) on L-TOP 
+   Violation between Clearance Constraint: (0.47mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (-1.469mm,1.548mm)(-1.459mm,1.558mm) on L-TOP 
+   Violation between Clearance Constraint: (0.293mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (-1.525mm,-28.804mm)(-0.058mm,-28.804mm) on L-TOP 
+   Violation between Clearance Constraint: (0.225mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (39.61mm,-28.73mm)(41.151mm,-28.73mm) on L-TOP 
+   Violation between Clearance Constraint: (0.227mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (39.624mm,1.543mm)(41.146mm,1.543mm) on L-TOP 
+   Violation between Clearance Constraint: (0.225mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (41.146mm,1.543mm)(41.148mm,1.541mm) on L-TOP 
+   Violation between Clearance Constraint: (0.225mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (41.148mm,1.541mm)(42.593mm,1.541mm) on L-TOP 
+   Violation between Clearance Constraint: (0.225mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (41.151mm,-28.73mm)(42.52mm,-28.73mm) on L-TOP 
+   Violation between Clearance Constraint: (0.404mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (42.52mm,-28.73mm)(43.434mm,-27.816mm) on L-TOP 
+   Violation between Clearance Constraint: (0.478mm < 0.5mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (42.593mm,1.541mm)(43.434mm,0.7mm) on L-TOP 
+   Violation between Clearance Constraint: (0.048mm < 0.3mm) Between Hole of Pad T3-3(0mm,-27.178mm) on Multi-Layer And Pad LED2-1(0.01mm,-25.635mm) on L-TOP 
+   Violation between Clearance Constraint: (0.062mm < 0.3mm) Between Hole of Pad T3-3(0mm,-27.178mm) on Multi-Layer And Pad LED2-2(0.01mm,-28.735mm) on L-TOP 
+   Violation between Clearance Constraint: (0.047mm < 0.3mm) Between Hole of Pad T1-3(0mm,0mm) on Multi-Layer And Pad LED3-1(0.001mm,-1.542mm) on L-TOP 
+   Violation between Clearance Constraint: (0.063mm < 0.3mm) Between Hole of Pad T1-3(0mm,0mm) on Multi-Layer And Pad LED3-2(0.001mm,1.558mm) on L-TOP 
+   Violation between Clearance Constraint: (0.054mm < 0.3mm) Between Hole of Pad T2-3(41.148mm,-27.178mm) on Multi-Layer And Pad LED4-1(41.151mm,-25.629mm) on L-TOP 
+   Violation between Clearance Constraint: (0.057mm < 0.3mm) Between Hole of Pad T2-3(41.148mm,-27.178mm) on Multi-Layer And Pad LED4-2(41.151mm,-28.73mm) on L-TOP 
+   Violation between Clearance Constraint: (Collision < 0.3mm) Between Hole of Pad T4-3(41.148mm,-0.159mm) on Multi-Layer And Pad LED5-1(41.148mm,-1.559mm) on L-TOP 
+   Violation between Clearance Constraint: (0.205mm < 0.3mm) Between Hole of Pad T4-3(41.148mm,-0.159mm) on Multi-Layer And Pad LED5-2(41.148mm,1.541mm) on L-TOP 
+   Violation between Clearance Constraint: (0.163mm < 0.3mm) Between Hole of Pad T1-3(0mm,0mm) on Multi-Layer And Track (0.001mm,1.558mm)(1.366mm,1.558mm) on L-TOP 
+   Violation between Clearance Constraint: (0.163mm < 0.3mm) Between Hole of Pad T1-3(0mm,0mm) on Multi-Layer And Track (-1.459mm,1.558mm)(0.001mm,1.558mm) on L-TOP 
+   Violation between Clearance Constraint: (0.157mm < 0.3mm) Between Hole of Pad T2-3(41.148mm,-27.178mm) on Multi-Layer And Track (39.61mm,-28.73mm)(41.151mm,-28.73mm) on L-TOP 
+   Violation between Clearance Constraint: (0.157mm < 0.3mm) Between Hole of Pad T2-3(41.148mm,-27.178mm) on Multi-Layer And Track (41.151mm,-28.73mm)(42.52mm,-28.73mm) on L-TOP 
+   Violation between Clearance Constraint: (0.162mm < 0.3mm) Between Hole of Pad T3-3(0mm,-27.178mm) on Multi-Layer And Track (0.01mm,-28.735mm)(1.62mm,-28.735mm) on L-TOP 
+   Violation between Clearance Constraint: (0.162mm < 0.3mm) Between Hole of Pad T3-3(0mm,-27.178mm) on Multi-Layer And Track (-0.058mm,-28.804mm)(0.01mm,-28.735mm) on L-TOP 
+   Violation between Clearance Constraint: (0.231mm < 0.3mm) Between Hole of Pad T3-3(0mm,-27.178mm) on Multi-Layer And Track (-1.525mm,-28.804mm)(-0.058mm,-28.804mm) on L-TOP 
+   Violation between Clearance Constraint: (0.442mm < 0.5mm) Between Polygon Region (0 hole(s)) L-TOP And Track (18.049mm,-2.327mm)(18.118mm,-2.397mm) on L-TOP 
+   Violation between Clearance Constraint: (0.442mm < 0.5mm) Between Polygon Region (0 hole(s)) L-TOP And Track (18.118mm,-2.878mm)(18.118mm,-2.397mm) on L-TOP 
+   Violation between Clearance Constraint: (0.218mm < 0.5mm) Between Polygon Region (0 hole(s)) L-TOP And Track (18.118mm,-2.878mm)(18.355mm,-3.115mm) on L-TOP 
+   Violation between Clearance Constraint: (0.218mm < 0.5mm) Between Polygon Region (0 hole(s)) L-TOP And Track (18.355mm,-4.88mm)(18.355mm,-3.115mm) on L-TOP 
+Rule Violations :42
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Arc (0mm,0mm) on L-BOT And Pad T1-1(8.953mm,-0.273mm) on Multi-Layer Location : [X = 88.915mm][Y = 100.565mm]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad T4-3(41.148mm,-0.159mm) on Multi-Layer Location : [X = 121.11mm][Y = 100.789mm]
+   Violation between Short-Circuit Constraint: Between Pad LED5-1(41.148mm,-1.559mm) on L-TOP And Pad T4-3(41.148mm,-0.159mm) on Multi-Layer Location : [X = 121.11mm][Y = 99.832mm]
+Rule Violations :3
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (GND_L01_P002) on L-TOP 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (GND_L02_P001) on L-GND 
+Rule Violations :2
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=1.5mm) (Preferred=0.3mm) (All)
+   Violation between Width Constraint: Arc (0mm,0mm) on L-BOT Actual Width = 6mm, Target Width = 1.5mm
+   Violation between Width Constraint: Arc (0mm,-27.178mm) on L-BOT Actual Width = 6mm, Target Width = 1.5mm
+   Violation between Width Constraint: Arc (41.148mm,-0.159mm) on L-BOT Actual Width = 6mm, Target Width = 1.5mm
+   Violation between Width Constraint: Arc (41.148mm,-27.178mm) on L-BOT Actual Width = 6mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (12.598mm,-35.973mm)(12.658mm,-35.913mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (12.658mm,-35.913mm)(13.76mm,-35.913mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (13.76mm,-35.913mm)(13.819mm,-35.854mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (-14.072mm,-18.596mm)(-14.072mm,-7.05mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (-14.072mm,-31.655mm)(-14.072mm,-18.641mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (-14.072mm,-31.655mm)(-7.259mm,-38.467mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (-14.072mm,4.159mm)(-6.96mm,11.271mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (-14.072mm,-7.05mm)(-14.072mm,4.159mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (28.448mm,-30.226mm)(28.448mm,-28.956mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (28.448mm,-30.226mm)(32.156mm,-33.934mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (30.932mm,-38.467mm)(32.156mm,-37.243mm) on L-Signal Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (32.156mm,-37.243mm)(32.156mm,-33.934mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (4.978mm,-38.467mm)(30.932mm,-38.467mm) on L-Signal Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (-6.96mm,11.271mm)(10.058mm,11.271mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (-7.259mm,-38.467mm)(4.978mm,-38.467mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (7.844mm,-35.967mm)(7.849mm,-35.973mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+   Violation between Width Constraint: Track (7.849mm,-35.973mm)(9.042mm,-35.973mm) on L-TOP Actual Width = 2mm, Target Width = 1.5mm
+Rule Violations :21
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=2mm) (Preferred=1.5mm) (InNetClass('Power'))
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-4(-13.056mm,-37.751mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-4(-13.31mm,10.509mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-4(54.508mm,10.255mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-4(54.762mm,-37.497mm) on Multi-Layer Actual Hole Size = 3mm
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.01mm < 0.254mm) Between Pad C7-1(27.968mm,-18.192mm) on L-TOP And Via (26.271mm,-16.88mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.01mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.228mm < 0.254mm) Between Pad L1-1(22.606mm,-25.146mm) on L-TOP And Via (21.056mm,-21.818mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.228mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.019mm < 0.254mm) Between Pad LED5-2(41.148mm,1.541mm) on L-TOP And Via (39.577mm,1.541mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.019mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.081mm < 0.254mm) Between Pad SW1-1(-12.346mm,-16.161mm) on L-TOP And Via (-11.162mm,-16.267mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.081mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.174mm < 0.254mm) Between Pad U1-49(20.073mm,4.548mm) on L-TOP And Via (19.821mm,5.949mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.174mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.174mm < 0.254mm) Between Pad U1-49(22.048mm,4.548mm) on L-TOP And Via (21.345mm,5.949mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.174mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.174mm < 0.254mm) Between Pad U1-49(22.048mm,4.548mm) on L-TOP And Via (22.615mm,5.949mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.174mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.048mm < 0.254mm) Between Pad U1-49(24.024mm,0.598mm) on L-TOP And Via (25.298mm,0.603mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.048mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.048mm < 0.254mm) Between Pad U1-49(24.024mm,2.573mm) on L-TOP And Via (25.298mm,2.635mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.048mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.174mm < 0.254mm) Between Pad U1-49(24.024mm,4.548mm) on L-TOP And Via (24.139mm,5.949mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.174mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.048mm < 0.254mm) Between Pad U1-49(24.024mm,4.548mm) on L-TOP And Via (25.298mm,4.667mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.048mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.187mm < 0.254mm) Between Via (17.813mm,-18.73mm) from L-TOP to L-BOT And Via (17.813mm,-19.73mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.187mm] / [Bottom Solder] Mask Sliver [0.187mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.187mm < 0.254mm) Between Via (17.813mm,-18.73mm) from L-TOP to L-BOT And Via (18.813mm,-18.73mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.187mm] / [Bottom Solder] Mask Sliver [0.187mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.187mm < 0.254mm) Between Via (17.813mm,-19.73mm) from L-TOP to L-BOT And Via (18.813mm,-19.73mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.187mm] / [Bottom Solder] Mask Sliver [0.187mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.187mm < 0.254mm) Between Via (18.813mm,-18.73mm) from L-TOP to L-BOT And Via (18.813mm,-19.73mm) from L-TOP to L-BOT [Top Solder] Mask Sliver [0.187mm] / [Bottom Solder] Mask Sliver [0.187mm]
+Rule Violations :15
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.243mm < 0.254mm) Between Text "3V3" (30.632mm,-39.783mm) on Top Overlay And Track (30.886mm,-38.513mm)(30.886mm,-35.973mm) on Top Overlay Silk Text to Silk Clearance [0.243mm]
+   Violation between Silk To Silk Clearance Constraint: (0.243mm < 0.254mm) Between Text "3V3" (30.632mm,-39.783mm) on Top Overlay And Track (30.886mm,-38.513mm)(35.966mm,-38.513mm) on Top Overlay Silk Text to Silk Clearance [0.243mm]
+   Violation between Silk To Silk Clearance Constraint: (0.243mm < 0.254mm) Between Text "GND" (33.934mm,-39.783mm) on Top Overlay And Track (30.886mm,-38.513mm)(35.966mm,-38.513mm) on Top Overlay Silk Text to Silk Clearance [0.243mm]
+   Violation between Silk To Silk Clearance Constraint: (0.244mm < 0.254mm) Between Text "GND" (33.934mm,-39.783mm) on Top Overlay And Track (35.966mm,-38.513mm)(35.966mm,-35.973mm) on Top Overlay Silk Text to Silk Clearance [0.244mm]
+   Violation between Silk To Silk Clearance Constraint: (0.089mm < 0.254mm) Between Text "LED1" (14.622mm,-13.763mm) on Top Overlay And Track (1.93mm,-10.065mm)(15.392mm,-10.065mm) on Top Overlay Silk Text to Silk Clearance [0.089mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "P1" (48.61mm,8.898mm) on Top Overlay And Text "P2" (48.522mm,11.501mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.111mm < 0.254mm) Between Text "R10" (19.379mm,-7.686mm) on Top Overlay And Track (15.392mm,-10.573mm)(29.108mm,-10.573mm) on Top Overlay Silk Text to Silk Clearance [0.111mm]
+   Violation between Silk To Silk Clearance Constraint: (0.111mm < 0.254mm) Between Text "R12" (20.903mm,-7.686mm) on Top Overlay And Track (15.392mm,-10.573mm)(29.108mm,-10.573mm) on Top Overlay Silk Text to Silk Clearance [0.111mm]
+   Violation between Silk To Silk Clearance Constraint: (0.102mm < 0.254mm) Between Text "R13" (25.475mm,-7.694mm) on Top Overlay And Track (15.392mm,-10.573mm)(29.108mm,-10.573mm) on Top Overlay Silk Text to Silk Clearance [0.102mm]
+   Violation between Silk To Silk Clearance Constraint: (0.102mm < 0.254mm) Between Text "R14" (22.427mm,-7.694mm) on Top Overlay And Track (15.392mm,-10.573mm)(29.108mm,-10.573mm) on Top Overlay Silk Text to Silk Clearance [0.102mm]
+   Violation between Silk To Silk Clearance Constraint: (0.111mm < 0.254mm) Between Text "R15" (17.855mm,-7.686mm) on Top Overlay And Track (15.392mm,-10.573mm)(29.108mm,-10.573mm) on Top Overlay Silk Text to Silk Clearance [0.111mm]
+   Violation between Silk To Silk Clearance Constraint: (0.102mm < 0.254mm) Between Text "R16" (23.951mm,-7.694mm) on Top Overlay And Track (15.392mm,-10.573mm)(29.108mm,-10.573mm) on Top Overlay Silk Text to Silk Clearance [0.102mm]
+   Violation between Silk To Silk Clearance Constraint: (0.111mm < 0.254mm) Between Text "R17" (26.999mm,-7.686mm) on Top Overlay And Track (15.392mm,-10.573mm)(29.108mm,-10.573mm) on Top Overlay Silk Text to Silk Clearance [0.111mm]
+   Violation between Silk To Silk Clearance Constraint: (0.239mm < 0.254mm) Between Text "R3" (3.446mm,-13.692mm) on Top Overlay And Track (1.93mm,-13.875mm)(1.93mm,-10.065mm) on Top Overlay Silk Text to Silk Clearance [0.239mm]
+Rule Violations :14
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Arc (0mm,-27.178mm) on L-BOT 
+   Violation between Net Antennae: Arc (0mm,-27.178mm) on L-BOT 
+   Violation between Net Antennae: Arc (41.148mm,-0.159mm) on L-BOT 
+   Violation between Net Antennae: Arc (41.148mm,-0.159mm) on L-BOT 
+   Violation between Net Antennae: Arc (41.148mm,-27.178mm) on L-BOT 
+   Violation between Net Antennae: Arc (41.148mm,-27.178mm) on L-BOT 
+   Violation between Net Antennae: Via (28.194mm,-20.574mm) from L-TOP to L-BOT 
+Rule Violations :7
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 108
+Waived Violations : 0
+Time Elapsed        : 00:00:00

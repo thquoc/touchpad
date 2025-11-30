@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=IN New Net Name=VCC
+Added Member To Class: ClassName=Sheet2 Member=Component C2 22uF
+Added Rule: Name=Schematic Supply Nets_2

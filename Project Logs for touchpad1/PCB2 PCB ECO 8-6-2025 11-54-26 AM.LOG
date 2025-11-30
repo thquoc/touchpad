@@ -1,0 +1,281 @@
+Added Component: Designator=C1(C0603)
+Added Component: Designator=C2(C0603)
+Added Component: Designator=C3(C0603)
+Added Component: Designator=C4(C0603)
+Added Component: Designator=C5(C0603)
+Added Component: Designator=C6(C0603)
+Added Component: Designator=C7(C0402)
+Added Component: Designator=C8(C0402)
+Added Component: Designator=C9(C0402)
+Added Component: Designator=C10(C0402)
+Added Component: Designator=C11(C0603)
+Added Component: Designator=C12(C0603)
+Added Component: Designator=D1(SMC_L6.9-W5.9-LS7.9-RD)
+Added Component: Designator=L1(IND-SMD_L6.0-W6.0_VLS6045EX-2R0N)
+Added Component: Designator=LED1(LED0603-RD_RED)
+Added Component: Designator=LED2(LED0603-RD_RED)
+Added Component: Designator=LED3(LED0603-RD_RED)
+Added Component: Designator=LED4(LED0603-RD_RED)
+Added Component: Designator=LED5(LED0603-RD_RED)
+Added Component: Designator=LED6(LED0603-RD_RED)
+Added Component: Designator=LED7(LED0603-RD_RED)
+Added Component: Designator=LED8(LED0603-RD_RED)
+Added Component: Designator=LED9(LED0603-RD_RED)
+Added Component: Designator=P1(HDR1X6H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603)
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R3(R0603)
+Added Component: Designator=R4(R0603)
+Added Component: Designator=R5(R0603)
+Added Component: Designator=R6(R0603)
+Added Component: Designator=R7(R0603)
+Added Component: Designator=R8(R0603)
+Added Component: Designator=R9(R0603)
+Added Component: Designator=R10(R0603)
+Added Component: Designator=R11(R0603)
+Added Component: Designator=R12(R0603)
+Added Component: Designator=R13(R0603)
+Added Component: Designator=R14(R0603)
+Added Component: Designator=R15(R0603)
+Added Component: Designator=R16(R0603)
+Added Component: Designator=R17(R0603)
+Added Component: Designator=R18(R0603)
+Added Component: Designator=R19(R0603)
+Added Component: Designator=R20(R0603)
+Added Component: Designator=R21(R0603)
+Added Component: Designator=SW1(KEY-SMD_B3U-1000PM)
+Added Component: Designator=SW2(KEY-SMD_B3U-1000PM)
+Added Component: Designator=T1(Touchpad)
+Added Component: Designator=T2(Touchpad)
+Added Component: Designator=T3(Touchpad)
+Added Component: Designator=T4(Touchpad)
+Added Component: Designator=U1(SOIC127P600X170-9N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MP1584EN/Monolithic+Power+Systems+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MP1584EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MP1584EN/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MP1584EN/Monolithic+Power+Systems+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(BULETM-SMD_ESP32-PICO-MINI-02-N8R2)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=Boot Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=EN Pin=C6-2
+Added Pin To Net: NetName=touch1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=touch3 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=touch2 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=touch4 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=3V3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=3V3 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Pin To Net: NetName=3V3 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=GND Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=GND Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=GND Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=GND Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=GND Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=GND Pin=LED9-1
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=IO25 Pin=P1-2
+Added Pin To Net: NetName=IO26 Pin=P1-3
+Added Pin To Net: NetName=IO27 Pin=P1-4
+Added Pin To Net: NetName=IO14 Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=TX Pin=P2-2
+Added Pin To Net: NetName=RX Pin=P2-3
+Added Pin To Net: NetName=VCC Pin=P2-4
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R2-1
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetR3_1 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetC4_1 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R9-2
+Added Pin To Net: NetName=IO25 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=IO26 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=IO27 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=IO14 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=3V3 Pin=R14-1
+Added Pin To Net: NetName=NetLED2_2 Pin=R14-2
+Added Pin To Net: NetName=3V3 Pin=R15-1
+Added Pin To Net: NetName=NetLED3_2 Pin=R15-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R16-1
+Added Pin To Net: NetName=IO25 Pin=R16-2
+Added Pin To Net: NetName=3V3 Pin=R17-1
+Added Pin To Net: NetName=NetLED5_2 Pin=R17-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R18-1
+Added Pin To Net: NetName=IO26 Pin=R18-2
+Added Pin To Net: NetName=NetLED7_2 Pin=R19-1
+Added Pin To Net: NetName=IO27 Pin=R19-2
+Added Pin To Net: NetName=3V3 Pin=R20-1
+Added Pin To Net: NetName=NetLED8_2 Pin=R20-2
+Added Pin To Net: NetName=NetLED9_2 Pin=R21-1
+Added Pin To Net: NetName=IO14 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=Boot Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=EN Pin=SW2-2
+Added Pin To Net: NetName=touch1 Pin=T1-1
+Added Pin To Net: NetName=touch3 Pin=T2-1
+Added Pin To Net: NetName=touch2 Pin=T3-1
+Added Pin To Net: NetName=touch4 Pin=T4-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=NetR1_2 Pin=U1-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-3
+Added Pin To Net: NetName=NetR3_1 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetR5_2 Pin=U1-6
+Added Pin To Net: NetName=VCC Pin=U1-7
+Added Pin To Net: NetName=NetC1_1 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=3V3 Pin=U2-3
+Added Pin To Net: NetName=EN Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=touch1 Pin=U2-12
+Added Pin To Net: NetName=touch2 Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-14
+Added Pin To Net: NetName=IO25 Pin=U2-15
+Added Pin To Net: NetName=IO26 Pin=U2-16
+Added Pin To Net: NetName=IO27 Pin=U2-17
+Added Pin To Net: NetName=IO14 Pin=U2-18
+Added Pin To Net: NetName=touch3 Pin=U2-20
+Added Pin To Net: NetName=touch4 Pin=U2-21
+Added Pin To Net: NetName=Boot Pin=U2-23
+Added Pin To Net: NetName=RX Pin=U2-30
+Added Pin To Net: NetName=TX Pin=U2-31
+Added Pin To Net: NetName=GND Pin=U2-36
+Added Pin To Net: NetName=GND Pin=U2-37
+Added Pin To Net: NetName=GND Pin=U2-38
+Added Pin To Net: NetName=GND Pin=U2-39
+Added Pin To Net: NetName=GND Pin=U2-40
+Added Pin To Net: NetName=GND Pin=U2-41
+Added Pin To Net: NetName=GND Pin=U2-42
+Added Pin To Net: NetName=GND Pin=U2-43
+Added Pin To Net: NetName=GND Pin=U2-44
+Added Pin To Net: NetName=GND Pin=U2-45
+Added Pin To Net: NetName=GND Pin=U2-46
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=GND Pin=U2-48
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-50
+Added Pin To Net: NetName=GND Pin=U2-51
+Added Pin To Net: NetName=GND Pin=U2-52
+Added Pin To Net: NetName=GND Pin=U2-53
+Added Member To Class: ClassName=Sheet2 Member=Component C1 100nF
+Added Member To Class: ClassName=Sheet2 Member=Component C2 22uF
+Added Member To Class: ClassName=Sheet2 Member=Component C3 10uF
+Added Member To Class: ClassName=Sheet2 Member=Component C4 220pF
+Added Member To Class: ClassName=Sheet2 Member=Component C5 100nF
+Added Member To Class: ClassName=Sheet2 Member=Component C6 100nF
+Added Member To Class: ClassName=Sheet2 Member=Component C7 4.7nF
+Added Member To Class: ClassName=Sheet2 Member=Component C8 4.7nF
+Added Member To Class: ClassName=Sheet2 Member=Component C9 4.7nF
+Added Member To Class: ClassName=Sheet2 Member=Component C10 4.7nF
+Added Member To Class: ClassName=Sheet2 Member=Component C11 22uF
+Added Member To Class: ClassName=Sheet2 Member=Component C12 100nF
+Added Member To Class: ClassName=Sheet2 Member=Component D1 B540CQ-13-F
+Added Member To Class: ClassName=Sheet2 Member=Component L1 10uH
+Added Member To Class: ClassName=Sheet2 Member=Component LED1 XL-1608SURC-06
+Added Member To Class: ClassName=Sheet2 Member=Component LED2 XL-1608SURC-06
+Added Member To Class: ClassName=Sheet2 Member=Component LED3 XL-1608SURC-06
+Added Member To Class: ClassName=Sheet2 Member=Component LED4 XL-1608SURC-06
+Added Member To Class: ClassName=Sheet2 Member=Component LED5 XL-1608SURC-06
+Added Member To Class: ClassName=Sheet2 Member=Component LED6 XL-1608SURC-06
+Added Member To Class: ClassName=Sheet2 Member=Component LED7 XL-1608SURC-06
+Added Member To Class: ClassName=Sheet2 Member=Component LED8 XL-1608SURC-06
+Added Member To Class: ClassName=Sheet2 Member=Component LED9 XL-1608SURC-06
+Added Member To Class: ClassName=Sheet2 Member=Component P1 Header 6H
+Added Member To Class: ClassName=Sheet2 Member=Component P2 Header 4
+Added Member To Class: ClassName=Sheet2 Member=Component R1 50kO
+Added Member To Class: ClassName=Sheet2 Member=Component R2 50O
+Added Member To Class: ClassName=Sheet2 Member=Component R3 10kohm
+Added Member To Class: ClassName=Sheet2 Member=Component R4 100kO
+Added Member To Class: ClassName=Sheet2 Member=Component R5 200kO
+Added Member To Class: ClassName=Sheet2 Member=Component R6 3.3kO
+Added Member To Class: ClassName=Sheet2 Member=Component R7 68.1kO
+Added Member To Class: ClassName=Sheet2 Member=Component R8 10kohm
+Added Member To Class: ClassName=Sheet2 Member=Component R9 10kohm
+Added Member To Class: ClassName=Sheet2 Member=Component R10 10kohm
+Added Member To Class: ClassName=Sheet2 Member=Component R11 10kohm
+Added Member To Class: ClassName=Sheet2 Member=Component R12 10kohm
+Added Member To Class: ClassName=Sheet2 Member=Component R13 10kohm
+Added Member To Class: ClassName=Sheet2 Member=Component R14 100O
+Added Member To Class: ClassName=Sheet2 Member=Component R15 100O
+Added Member To Class: ClassName=Sheet2 Member=Component R16 50O
+Added Member To Class: ClassName=Sheet2 Member=Component R17 100O
+Added Member To Class: ClassName=Sheet2 Member=Component R18 50O
+Added Member To Class: ClassName=Sheet2 Member=Component R19 50O
+Added Member To Class: ClassName=Sheet2 Member=Component R20 100O
+Added Member To Class: ClassName=Sheet2 Member=Component R21 50O
+Added Member To Class: ClassName=Sheet2 Member=Component SW1 B3U-1000P
+Added Member To Class: ClassName=Sheet2 Member=Component SW2 B3U-1000P
+Added Member To Class: ClassName=Sheet2 Member=Component T1 Touchpad
+Added Member To Class: ClassName=Sheet2 Member=Component T2 Touchpad
+Added Member To Class: ClassName=Sheet2 Member=Component T3 Touchpad
+Added Member To Class: ClassName=Sheet2 Member=Component T4 Touchpad
+Added Member To Class: ClassName=Sheet2 Member=Component U1 MP1584EN
+Added Member To Class: ClassName=Sheet2 Member=Component U2 ESP32-PICO-MINI-02-N8R2

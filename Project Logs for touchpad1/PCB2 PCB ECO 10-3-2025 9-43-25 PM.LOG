@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=touch1 Pin=C9-1
+Removed Pin From Net: NetName=touch3 Pin=C10-1
+Removed Pin From Net: NetName=touch2 Pin=C12-1
+Removed Pin From Net: NetName=touch4 Pin=C13-1
+Removed Member From Class: ClassName=Sheet2 Member=C9
+Removed Member From Class: ClassName=Sheet2 Member=C10
+Removed Member From Class: ClassName=Sheet2 Member=C12
+Removed Member From Class: ClassName=Sheet2 Member=C13
+Added Component: Designator=R11(R0603)
+Added Component: Designator=R13(R0603)
+Added Component: Designator=R15(R0603)
+Added Component: Designator=R17(R0603)
+Added Component: Designator=T1(TouchPad)
+Added Component: Designator=T2(TouchPad)
+Added Component: Designator=T3(TouchPad)
+Added Component: Designator=T4(TouchPad)
+Added Pin To Net: NetName=touch1 Pin=R11-2
+Added Pin To Net: NetName=touch3 Pin=R13-2
+Added Pin To Net: NetName=touch2 Pin=R15-2
+Added Pin To Net: NetName=touch4 Pin=R17-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=T1-1
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=T2-1
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=T3-1
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=T4-1
+Added Net: Name=NetR17_1
+Added Member To Class: ClassName=Sheet2 Member=Component R11 1kO
+Added Member To Class: ClassName=Sheet2 Member=Component R13 1kO
+Added Member To Class: ClassName=Sheet2 Member=Component R15 1kO
+Added Member To Class: ClassName=Sheet2 Member=Component R17 1kO
+Added Member To Class: ClassName=Sheet2 Member=Component T1 TouchPad
+Added Member To Class: ClassName=Sheet2 Member=Component T2 TouchPad
+Added Member To Class: ClassName=Sheet2 Member=Component T3 TouchPad
+Added Member To Class: ClassName=Sheet2 Member=Component T4 TouchPad

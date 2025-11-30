@@ -1,0 +1,49 @@
+Added Component: Designator=C7(C0402)
+Added Component: Designator=C8(C0402)
+Added Component: Designator=C9(C0402)
+Added Component: Designator=C10(C0402)
+Add component: Footprint Not Found SMC_L6.9-W5.9-LS7.9-RD
+Add component: Footprint Not Found IND-SMD_L6.0-W6.0_VLS6045EX-2R0N
+Add component: Footprint Not Found HDR1X6H
+Add component: Footprint Not Found HDR1X4
+Add component: Footprint Not Found SOIC127P600X170-9N
+Added Pin To Net: NetName=touch1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=touch3 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=touch2 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=touch4 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P1-4
+Add Pin To Net: Unknown Pin: Pin P1-5
+Add Pin To Net: Unknown Pin: Pin P1-6
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P2-3
+Add Pin To Net: Unknown Pin: Pin P2-4
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Added Member To Class: ClassName=Sheet2 Member=Component C7 4.7nF
+Added Member To Class: ClassName=Sheet2 Member=Component C8 4.7nF
+Added Member To Class: ClassName=Sheet2 Member=Component C9 4.7nF
+Added Member To Class: ClassName=Sheet2 Member=Component C10 4.7nF
+Add Class Member: Failed to add class member : Component D1 B540CQ-13-F
+Add Class Member: Failed to add class member : Component L1 10uH
+Add Class Member: Failed to add class member : Component P1 Header 6H
+Add Class Member: Failed to add class member : Component P2 Header 4
+Add Class Member: Failed to add class member : Component U1 MP1584EN

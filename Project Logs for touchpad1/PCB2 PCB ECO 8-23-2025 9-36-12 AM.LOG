@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C13 Old Footprint=C0201 New Footprint=C0603
+Change Component Comment : Designator=C13 Old Comment=6.8nF New Comment=6.8uF
+Change component parameters: Designator = "C13" ("C13"); Footprint = "C0201"; UniqueID = "\ZVTWOFBT" ("\ZVTWOFBT")

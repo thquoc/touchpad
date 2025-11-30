@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X6H New Footprint=HDR1X6
+Change Component Comment : Designator=P1 Old Comment=Header 6H New Comment=Header 6
+Added Component: Designator=U4(CAP-SMD_BD10.0-L10.3-W10.3-FD)
+Added Component: Designator=U5(CAP-SMD_BD10.0-L10.3-W10.3-FD)
+Added Component: Designator=U6(CAP-SMD_BD10.0-L10.3-W10.3-FD)
+Added Member To Class: ClassName=Sheet2 Member=Component U1 220uF
+Added Member To Class: ClassName=Sheet2 Member=Component U4 220uF
+Added Member To Class: ClassName=Sheet2 Member=Component U5 220uF
+Added Member To Class: ClassName=Sheet2 Member=Component U6 220uF

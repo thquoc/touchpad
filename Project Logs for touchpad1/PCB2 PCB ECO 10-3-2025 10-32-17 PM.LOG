@@ -1,0 +1,5 @@
+Added Component: Designator=R5(RES-ADJ-SMD_3P-L4.5-W4.5-P2.30-BL-FS)
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=R5-3
+Added Member To Class: ClassName=Sheet2 Member=Component R5 1kO

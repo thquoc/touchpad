@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C13 Old Footprint=C0201 New Footprint=C0603
+Change Component Comment : Designator=C13 Old Comment=6.8nF New Comment=6.8uF
+Change component parameters: Designator = "C13" ("C13"); Footprint = "C0201"; UniqueID = "\LDVBSVPC" ("\LDVBSVPC")
+Added Component: Designator=T4(Touchpad)
+Added Pin To Net: NetName=touch4 Pin=T4-1
+Added Member To Class: ClassName=Sheet2 Member=Component T4 Touchpad

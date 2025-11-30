@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=IC1-9
+Added Component: Designator=J1(2way_LP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNote"; Value = "LP=12mil, MP=40mil, HP=120mil"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=IC1-9
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=PGND Pin=J1-2
+Added Member To Class: ClassName=Sheet2 Member=Component J1 2 way net tie junction

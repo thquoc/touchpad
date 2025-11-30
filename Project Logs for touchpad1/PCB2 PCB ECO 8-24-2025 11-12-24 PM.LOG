@@ -1,0 +1,4 @@
+Added Component: Designator=T4(Touchpad)
+Added Pin To Net: NetName=touch4 Pin=T4-1
+Added Member To Class: ClassName=Sheet2 Member=Component d MP1484
+Added Member To Class: ClassName=Sheet2 Member=Component T4 Touchpad

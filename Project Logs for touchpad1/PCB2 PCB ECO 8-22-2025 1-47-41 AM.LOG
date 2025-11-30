@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetLED4_2 Pin=R16-1
+Removed Pin From Net: NetName=IO25 Pin=R16-2
+Removed Pin From Net: NetName=NetLED6_2 Pin=R18-1
+Removed Pin From Net: NetName=IO26 Pin=R18-2
+Removed Pin From Net: NetName=NetLED7_2 Pin=R19-1
+Removed Pin From Net: NetName=IO27 Pin=R19-2
+Removed Pin From Net: NetName=NetLED9_2 Pin=R21-1
+Removed Pin From Net: NetName=IO14 Pin=R21-2
+Change Component Comment : Designator=R16 Old Comment=50O New Comment=100O
+Change Component Comment : Designator=R18 Old Comment=50O New Comment=100O
+Change Component Comment : Designator=R19 Old Comment=50O New Comment=100O
+Change Component Comment : Designator=R21 Old Comment=50O New Comment=100O
+Change Component Comment : Designator=R14 Old Comment=100O New Comment=250O
+Change Component Comment : Designator=R15 Old Comment=100O New Comment=250O
+Change Component Comment : Designator=R17 Old Comment=100O New Comment=250O
+Change Component Comment : Designator=R20 Old Comment=100O New Comment=250O
+Change component parameters: Designator = "R16" ("R16"); Footprint = "R0603"; UniqueID = "\YQKFUNVZ" ("\YQKFUNVZ")
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "R0603"; UniqueID = "\PWKBNCIL" ("\PWKBNCIL")
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "R0603"; UniqueID = "\BYCKTJBZ" ("\BYCKTJBZ")
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "R0603"; UniqueID = "\AVTOIMVR" ("\AVTOIMVR")
+Change component parameters (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IO25 Pin=R16-1
+Added Pin To Net: NetName=NetLED4_2 Pin=R16-2
+Added Pin To Net: NetName=IO26 Pin=R18-1
+Added Pin To Net: NetName=NetLED6_2 Pin=R18-2
+Added Pin To Net: NetName=IO27 Pin=R19-1
+Added Pin To Net: NetName=NetLED7_2 Pin=R19-2
+Added Pin To Net: NetName=IO14 Pin=R21-1
+Added Pin To Net: NetName=NetLED9_2 Pin=R21-2
+Added Member To Class: ClassName=Sheet2 Member=Component T4 Touchpad
